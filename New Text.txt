@@ -1,0 +1,9 @@
+//Tao project local va push len github
+ 1. Tao 1 github repo
+ 2. git init
+ 3. Viet code
+ 	git status
+	git add
+	git commit -m "first commit"
+	git remote add origin https://github.com/haitnshtp/my-project.git
+	git push origin master
